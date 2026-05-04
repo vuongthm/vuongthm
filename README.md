@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-vuong-970a32344/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Minhvuong1384)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhvuong-sec)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vuongthm)
 ![Profile Views](https://komarev.com/ghpvc/?username=minhvuong-sec&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
@@ -78,7 +78,7 @@ My approach is simple: understand the system deeply before touching it, document
   <a href="https://t.me/Minhvuong1384">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/minhvuong-sec">
+  <a href="https://github.com/vuongthm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
