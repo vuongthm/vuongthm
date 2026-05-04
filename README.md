@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tran Hoang Minh Vuong · Venn
+# Tran Hoang Minh Vuong
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Network+Engineering+Student;Routing+%7C+Switching+%7C+Security-Aware+Design;Building+Reliable+Infrastructure%2C+One+Lab+at+a+Time" alt="Typing SVG" />
 
@@ -84,5 +84,5 @@ My approach is simple: understand the system deeply before touching it, document
 </p>
 
 <div align="center">
-  <sub>Tran Hoang Minh Vuong (Venn) · Network Engineering · Da Nang, Vietnam</sub>
+  <sub>Tran Hoang Minh Vuong · Network Engineering · Da Nang, Vietnam</sub>
 </div>
